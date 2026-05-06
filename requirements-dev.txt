@@ -1,0 +1,6 @@
+numpy>=1.24
+matplotlib
+scikit-learn
+pandas
+jupyter
+pytest
